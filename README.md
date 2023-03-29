@@ -3,8 +3,10 @@
 
  With Blackboard's new Ultra navigation I found it difficult to tell in the Administrator Panel which environment I'm in. I've created some custom user CSS which gives me visual cues to let me know which instance I'm working in. :joy:
 
+**Administrator Panel Before**
  ![Screen capture of the Blackboard Learn Administrator Panel without colorization.](screen-captures/admin-header-before.jpg)
 
+**Administrator Panel After**
  ![Screen capture of the Blackboard Learn Administrator Panel with colorization. Black background with white font.](screen-captures/admin-header-after.jpg)
 
  ## Requirements
