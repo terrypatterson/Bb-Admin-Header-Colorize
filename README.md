@@ -30,7 +30,7 @@ In the new style page, use the left area to provide a name for the style. I have
 
 ![Screen capture zoomed in on the left menu within the Stylus page. Yellow arrows point to the Title text box and the **Import** button.](screen-captures/stylus-name-and-import-style-capture.jpg)
 
-Now copy and paste the code into the blank text box. *Make sure you have changed the URLS to point to your Blackboard instance(s)*
+Now copy and paste the code into the blank text box. [Link to the code](code/README.md) *Make sure you have changed the URLS to point to your Blackboard instance(s)*
 
 **Before**
 ![Screen capture of the Stylus modal to import the style. No code is displayed in the text box.](screen-captures/stylus-import-before-capture.jpg)
